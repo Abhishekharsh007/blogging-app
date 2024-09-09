@@ -1,4 +1,3 @@
-'use client';
 import React, { useState, useEffect } from 'react';
 import { assets, blog_data } from "@/Assets/assets";
 import Image from 'next/image'

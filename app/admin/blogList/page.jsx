@@ -1,4 +1,3 @@
-'use client'
 import BlogTableItem from '@/Components/AdminComponents/BlogTableItem'
 import React, { useState, useEffect } from 'react'
 import axios from 'axios';

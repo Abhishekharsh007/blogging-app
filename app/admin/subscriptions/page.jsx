@@ -1,4 +1,3 @@
-'use client'
 import SubsTableItem from '@/Components/AdminComponents/SubsTableItem'
 import axios from 'axios';
 import React, { useEffect, useState } from 'react'
